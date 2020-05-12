@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Nina\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Nina\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_equinox.-836996446.00" t="ExcludeRecursive" />
+    <e p="D:\Nina\Documents\Gameslab\4.Semester\ExperimentalGames-Equinox\equinox\equinox" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_IsoDemo" t="Include">
+          <e p="_External" t="Include">
+            <e p="2d-techdemos" t="Include">
+              <e p="Brushes" t="Include">
+                <e p="Coordinate Brush" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="CoordinateBrush.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="GameObject Brush" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="GameObjectBrush.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Group Brush" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="GroupBrush.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Line Brush" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="LineBrush.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Prefab Brush" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="PrefabBrush.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Random Brush" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="RandomBrush.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+              <e p="Editor" t="Include">
+                <e p="PreviewUtil.cs" t="Include" />
+              </e>
+              <e p="GridInformation" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="GridInformation.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Rule Tiles" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="CustomRuleTileMenu.cs" t="Include" />
+                    <e p="HexagonalRuleTileEditor.cs" t="Include" />
+                    <e p="IsometricRuleTileEditor.cs" t="Include" />
+                    <e p="RuleOverrideTileEditor.cs" t="Include" />
+                    <e p="RuleTileEditor.cs" t="Include" />
+                  </e>
+                  <e p="HexagonalRuleTile.cs" t="Include" />
+                  <e p="IsometricRuleTile.cs" t="Include" />
+                  <e p="RuleOverrideTile.cs" t="Include" />
+                  <e p="RuleTile.cs" t="Include" />
+                  <e p="ScriptTemplates" t="Include">
+                    <e p="NewCustomRuleTile.cs.txt" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="BasicCameraFollow.cs" t="Include" />
+            <e p="HideTilemapColliderOnPlay.cs" t="Include" />
+            <e p="IsometricCharacterRenderer.cs" t="Include" />
+            <e p="IsometricPlayerMovementController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="GFX" t="Include">
+          <e p="SeeThrough.shader" t="Include" />
+        </e>
+        <e p="KinoGlitch" t="Include">
+          <e p="Editor" t="Include">
+            <e p="PackageTool.cs" t="Include" />
+          </e>
+          <e p="Kino" t="Include">
+            <e p="Glitch" t="Include">
+              <e p="AnalogGlitch.cs" t="Include" />
+              <e p="DigitalGlitch.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="AnalogGlitchEditor.cs" t="Include" />
+                <e p="DigitalGlitchEditor.cs" t="Include" />
+              </e>
+              <e p="Shader" t="Include">
+                <e p="AnalogGlitch.shader" t="Include" />
+                <e p="DigitalGlitch.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Reaktion" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Utility" t="Include">
+                <e p="ConstantMotionEditor.cs" t="Include" />
+                <e p="JitterMotionEditor.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Utility" t="Include">
+              <e p="ConstantMotion.cs" t="Include" />
+              <e p="JitterMotion.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RotierMaterial.cs" t="Include" />
+        <e p="Scenes" t="Include">
+          <e p="Playarea" t="Include">
+            <e p="SpeechToText.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CameraControl.cs" t="Include" />
+          <e p="Card.cs" t="Include" />
+          <e p="CharControl.cs" t="Include" />
+          <e p="Level_Rotator.cs" t="Include" />
+          <e p="Menu.cs" t="Include" />
+          <e p="RotateCollider.cs" t="Include" />
+        </e>
+        <e p="StandardDoubleSide.shader" t="Include" />
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="equinox.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
