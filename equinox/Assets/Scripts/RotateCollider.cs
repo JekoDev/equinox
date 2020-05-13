@@ -43,12 +43,12 @@ public class RotateCollider : MonoBehaviour
 
             for (x=0; x < Enable.Length; x++)
             {
-                Enable[x].enabled = true;
+                if (Enable[x] != null) Enable[x].enabled = true;
             }
 
             for (x = 0; x < Disable.Length; x++)
             {
-                Disable[x].enabled = false;
+                if (Disable[x] != null) Disable[x].enabled = false;
             }
 
             if (thi == null) thi = this.GetComponent<RotateCollider>();

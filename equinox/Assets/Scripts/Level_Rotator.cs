@@ -1,7 +1,7 @@
-﻿using Kino;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Kino;
 
 public class Level_Rotator : MonoBehaviour
 {
@@ -19,6 +19,8 @@ public class Level_Rotator : MonoBehaviour
     public static float CannotRotateTimer = 0;
 
     private float Distance;
+
+    public static Vector3 AtTheEnd;
 
 
     // Start is called before the first frame update
@@ -41,6 +43,8 @@ public class Level_Rotator : MonoBehaviour
                 if (MoveCharToStart != Vector3.zero) CharControl.GObject.transform.position = Collider.transform.TransformPoint(MoveCharToStart);
                 MoveCharToStart = Vector3.zero;
                 CannotRotateTimer = 10;
+                AtTheEnd = this.transform.eulerAngles;
+                AtTheEnd += RotateTo;
             }
 
             if (Vector3.Distance(Vector3.zero, RotateTo) > 0)
@@ -56,35 +60,66 @@ public class Level_Rotator : MonoBehaviour
 
             if (RotateTo.x > 0)
             {
-                RotateTo.x -= RotationSpeed;
-                this.transform.Rotate(RotationSpeed, 0, 0);
+                RotateTo.x -= RotationSpeed * Time.deltaTime;
+                this.transform.Rotate(RotationSpeed * Time.deltaTime, 0, 0);
+                if (RotateTo.x < 0.3f)
+                {
+                    this.transform.Rotate(RotateTo.x, 0, 0);
+                    RotateTo.x = 0;
+                }
             }
             if (RotateTo.x < 0)
             {
-                RotateTo.x += RotationSpeed;
-                this.transform.Rotate(-RotationSpeed, 0, 0);
+                RotateTo.x += RotationSpeed * Time.deltaTime;
+                this.transform.Rotate(-RotationSpeed * Time.deltaTime, 0, 0);
+                if (RotateTo.x > -0.3f)
+                {
+                    this.transform.Rotate(-RotateTo.x, 0, 0);
+                    RotateTo.x = 0;
+                }
             }
             if (RotateTo.y > 0)
             {
-                RotateTo.y -= RotationSpeed;
-                this.transform.Rotate(0, RotationSpeed, 0);
+                RotateTo.y -= RotationSpeed * Time.deltaTime;
+                this.transform.Rotate(0, RotationSpeed * Time.deltaTime, 0);
+                if (RotateTo.y < 0.3f)
+                {
+                    this.transform.Rotate(0, RotateTo.y, 0);
+                    RotateTo.y = 0;
+                }
             }
             if (RotateTo.y < 0)
             {
-                RotateTo.y += RotationSpeed;
-                this.transform.Rotate(0, -RotationSpeed, 0);
+                RotateTo.y += RotationSpeed * Time.deltaTime;
+                this.transform.Rotate(0, -RotationSpeed * Time.deltaTime, 0);
+                if (RotateTo.y > -0.3f)
+                {
+                    this.transform.Rotate(0, -RotateTo.y, 0);
+                    RotateTo.y = 0;
+                }
             }
             if (RotateTo.z > 0)
             {
-                RotateTo.z -= RotationSpeed;
-                this.transform.Rotate(0, 0, RotationSpeed);
+                RotateTo.z -= RotationSpeed * Time.deltaTime;
+                this.transform.Rotate(0, 0, RotationSpeed * Time.deltaTime);
+                if (RotateTo.z < 0.3f)
+                {
+                    this.transform.Rotate(0, 0, RotateTo.z);
+                    RotateTo.z = 0;
+                }
             }
             if (RotateTo.z < 0)
             {
-                RotateTo.z += RotationSpeed;
-                this.transform.Rotate(0, 0, -RotationSpeed);
+                RotateTo.z += RotationSpeed * Time.deltaTime;
+                this.transform.Rotate(0, 0, -RotationSpeed * Time.deltaTime);
+                if (RotateTo.z > -0.3f)
+                {
+                    this.transform.Rotate(0, 0, -RotateTo.z);
+                    RotateTo.z = 0;
+                }
             }
 
+            /*
             if (RotateTo.x > -0.3f && RotateTo.z < 0f)
             {
                 this.transform.Rotate(RotateTo.x, 0, 0);
@@ -119,11 +154,13 @@ public class Level_Rotator : MonoBehaviour
                 this.transform.Rotate(0, 0, RotateTo.z);
                 RotateTo.z = 0f;
             }
+            */
             
         }
         else
         {
             if (Rotated == true) {
+                this.transform.rotation = Quaternion.Euler(AtTheEnd);
                 //if (MoveCharTo != Vector3.zero) MoveCharTo = Collider.transform.worldToLocalMatrix.MultiplyPoint(world;
                 //if (MoveCharTo != Vector3.zero) CharControl.GObject.transform.position = Collider.transform.position - MoveCharTo;
                 if (MoveCharTo != Vector3.zero) CharControl.GObject.transform.position = Collider.transform.TransformPoint(MoveCharTo);

@@ -49,10 +49,10 @@ public class CharControl : MonoBehaviour
 
             if (isGrounded() == true)
             {
-                if (Input.GetKey(KeyCode.W)) this.transform.Translate(new Vector3(0, 0, -speed));
-                if (Input.GetKey(KeyCode.S)) this.transform.Translate(new Vector3(0, 0, speed));
-                if (Input.GetKey(KeyCode.A)) this.transform.Translate(new Vector3(speed, 0, 0));
-                if (Input.GetKey(KeyCode.D)) this.transform.Translate(new Vector3(-speed, 0, 0));
+                if (Input.GetKey(KeyCode.W)) this.transform.Translate(new Vector3(0, 0, -speed) * Time.deltaTime);
+                if (Input.GetKey(KeyCode.S)) this.transform.Translate(new Vector3(0, 0, speed) * Time.deltaTime);
+                if (Input.GetKey(KeyCode.A)) this.transform.Translate(new Vector3(speed, 0, 0) * Time.deltaTime);
+                if (Input.GetKey(KeyCode.D)) this.transform.Translate(new Vector3(-speed, 0, 0) * Time.deltaTime);
             }
         }
 

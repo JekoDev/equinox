@@ -252,7 +252,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f59fc6a069752204b91d726dd44b4ea1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.025
+  speed: 3.5
   SetToPosSpeed: 1
   FallNotBeyond: -15
 --- !u!1 &425501187
@@ -1405,7 +1405,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 786d53adbd6c70a46834b0c60115f059, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeed: 1
+  RotationSpeed: 400
   analogGlitch: {fileID: 0}
 --- !u!210 &1338715971
 SortingGroup:
