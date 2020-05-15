@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1037
   m_ShowMode: 4
-  m_Title: Project - equinox
+  m_Title: Scene - equinox
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 1037
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -115,10 +115,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 987
-  m_MinSize: {x: 677, y: 492}
-  m_MaxSize: {x: 14001, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 113
+  controlID: 95
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,10 +140,10 @@ MonoBehaviour:
     y: 0
     width: 1532
     height: 987
-  m_MinSize: {x: 402, y: 492}
+  m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 20
+  controlID: 24
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,10 +165,10 @@ MonoBehaviour:
     y: 0
     width: 1532
     height: 678
-  m_MinSize: {x: 402, y: 221}
-  m_MaxSize: {x: 8002, y: 4021}
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 21
+  controlID: 25
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -397,9 +397,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 6491ffff82abffffdaabffffb8f9ffff58faffff6afaffff82faffff8efaffff36fbffff5c6300004a6600000e6800007c680000
+      m_SelectedIDs: dc65ffff
+      m_LastClickedID: -39460
+      m_ExpandedIDs: 8cfaffff36fbffff4a3a00005e3b00004e3c0000b23d00004c3e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -459,9 +459,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 5.029279, y: -14.359644, z: -16.585295}
+    m_Target: {x: -0.43694496, y: 10.411339, z: 5.789978}
     speed: 2
-    m_Value: {x: 5.029279, y: -14.359644, z: -16.585295}
+    m_Value: {x: -0.43694496, y: 10.411339, z: 5.789978}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -508,13 +508,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.00042155306, y: -0.9799937, z: 0.19906081, w: 0.0020693047}
+    m_Target: {x: 0.024128938, y: 0.95908076, z: -0.26944858, w: 0.085350595}
     speed: 2
-    m_Value: {x: 0.00072013744, y: -0.979981, z: 0.19905823, w: 0.0035392619}
+    m_Value: {x: 0.024933368, y: 0.9586741, z: -0.26933387, w: 0.08821398}
   m_Size:
-    m_Target: 9.109832
+    m_Target: 12.1499605
     speed: 2
-    m_Value: 8.717543
+    m_Value: 12.1499605
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -656,21 +656,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/GFX/Cards
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/GFX/Cards
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Nina\Documents\Gameslab\4.Semester\ExperimentalGames-Equinox\NEW\equinox\equinox
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 06410000
-    m_LastClickedID: 16646
-    m_ExpandedIDs: 000000000641000008410000
+    scrollPos: {x: 0, y: 63}
+    m_SelectedIDs: ec410000
+    m_LastClickedID: 16876
+    m_ExpandedIDs: 00000000ba410000bc410000ea410000ee410000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -698,7 +698,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000641000008410000
+    m_ExpandedIDs: 00000000ba410000bc410000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -726,7 +726,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000764000007a49000000000000
+    m_ExpandedInstanceIDs: c6230000764000007a4900000000000064410000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
