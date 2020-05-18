@@ -17,6 +17,15 @@ public class CharControl : MonoBehaviour
 
     private CapsuleCollider coll;
 
+    public static Card Card1;
+    public static Card Card2;
+    public static Card Card3;
+    public static int CardCount = 0;
+
+    public static int Select1;
+    public static int Select2;
+    public static int Select3;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -31,7 +40,36 @@ public class CharControl : MonoBehaviour
     }
 
 
+    public static void CollectCard(Card c)
+    {
+        if (CardCount == 0) Card1 = c;
+        if (CardCount == 1) Card2 = c;
+        if (CardCount == 2) Card3 = c;
+        CardCount++;
+    }
 
+    public static Card GetLastCard() {
+        Card c = null;
+        if (CardCount == 1) return Card1;
+        if (CardCount == 2) return Card2;
+        if (CardCount >= 3) return Card3;
+        return c;
+    }
+
+    public static void SelectMeaning(int Meaning)
+    {
+        if (CardCount == 1) Select1 = Meaning;
+        if (CardCount == 2) Select2 = Meaning;
+        if (CardCount >= 3) Select3 = Meaning;
+    }
+
+    public static int GetMeaning(int Card)
+    {
+        if (Card == 0) return Select1;
+        if (Card == 1) return Select2;
+        if (Card == 2) return Select3;
+        return 0;
+    }
 
 
     // Update is called once per frame

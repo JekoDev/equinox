@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f87e8b051ef8d148a1b4b620d4b6918, type: 3}
+  m_Name: 18 The Moon
+  m_EditorClassIdentifier: 
+  CardName: XVIII. The Moon
+  CardImage: {fileID: 21300000, guid: e171feab971309644b097e2f6ee912b6, type: 3}
+  Word1: Illusion
+  Word2: Anxiety
+  Word3: Intuition
+  Meaning1: 'the moon is lying to you. the earth is lying to you. everyone is lying
+    to you. the words don''t make sense anymore. the letters dissolve in front of
+    your eyes. stop thinking. stop feeding the illusions. they will eat you alive. '
+  Meaning2: your hands haven't stopped shaking in years. maybe they have always been
+    shaking. you're terrified, but you don't know what you're afraid of. you are
+    your own worst enemy, but you don't know that yet. you never will.
+  Meaning3: 'the night is dark and starless. you can''t see your path, but you''re
+    treading along it nonetheless. is there even a path? are you even walking? move
+    slowly. stop your thoughts and trust only your feet. the night has become even
+    darker. '

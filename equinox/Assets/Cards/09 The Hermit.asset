@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f87e8b051ef8d148a1b4b620d4b6918, type: 3}
+  m_Name: 09 The Hermit
+  m_EditorClassIdentifier: 
+  CardName: IX. The Hermit
+  CardImage: {fileID: 21300000, guid: 44c21c133b231d04b838c1312a707ef8, type: 3}
+  Word1: Solitude
+  Word2: Retreat
+  Word3: Take your time
+  Meaning1: you will die alone. you are alone right now. you're in a room full of
+    people. you could be in space, alone among the stars and it wouldn't matter.
+    the stars would scream to you. they are always screaming.
+  Meaning2: now is the perfect time to buy a cabin in the woods! leave behind the
+    buzzing street life and run. run faster. they will find you. didn't you always
+    wanted to be a horror movie protagonist? good luck!
+  Meaning3: the world is turning too fast for you anyway. stop trying to catch up.
+    instead, make yourself a cup of tea. sprinkle some teeth in there. they make
+    an excellent enhancement to the flavor. tea always helps. teeth, too.

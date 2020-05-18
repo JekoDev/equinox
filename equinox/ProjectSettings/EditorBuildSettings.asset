@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Game3D_Old.unity
     guid: 17cee98451e92814f81b0bbfd977e71e
+  - enabled: 1
+    path: "Assets/Scenes/ZheL\xF6vel.unity"
+    guid: f21125c3c70102346a5d6e44a1be7caf
   m_configObjects: {}

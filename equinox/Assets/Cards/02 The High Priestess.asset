@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f87e8b051ef8d148a1b4b620d4b6918, type: 3}
+  m_Name: 02 The High Priestess
+  m_EditorClassIdentifier: 
+  CardName: II. The High Priestess
+  CardImage: {fileID: 21300000, guid: 2fd59f22edb94604cb2d109cd34e914f, type: 3}
+  Word1: Intuition
+  Word2: Knowledge
+  Word3: Be still
+  Meaning1: you're at a crossroads. on the left side, there's a thunderstorm brewing
+    over a plain. on the right side, an everlasting ocean, dark and grey. pick a
+    side. trust your inner organs. you will make the wrong choice. it will be fine.
+  Meaning2: nothing is as it seems. you know that. make this the only knowledge you
+    ever need. the world is a web of lies and deceit. what can you do about it? nothing.
+    just live with the everlasting dread of your knowledge.
+  Meaning3: stop moving, or they will find you. don't make a sound. don't breathe.
+    you'll be here for a while. something inside of you will still be moving. listen
+    to that. listen real closely. closer. come a little closer.

@@ -181,8 +181,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Embarm on your journey?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 90b70b5ad3abcfd48b4f64164615785b, type: 2}
+  m_sharedMaterial: {fileID: 8504937370497861222, guid: 90b70b5ad3abcfd48b4f64164615785b, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 20.7
+  m_fontSize: 25.2
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -530,8 +530,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: I'm not ready, yet
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 90b70b5ad3abcfd48b4f64164615785b, type: 2}
+  m_sharedMaterial: {fileID: 8504937370497861222, guid: 90b70b5ad3abcfd48b4f64164615785b, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -765,8 +765,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: EQUINOX
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 90b70b5ad3abcfd48b4f64164615785b, type: 2}
+  m_sharedMaterial: {fileID: 8504937370497861222, guid: 90b70b5ad3abcfd48b4f64164615785b, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -793,7 +793,7 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 43.3
+  m_fontSize: 44.75
   m_fontSizeBase: 41.5
   m_fontWeight: 400
   m_enableAutoSizing: 1

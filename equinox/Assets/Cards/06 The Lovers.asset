@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f87e8b051ef8d148a1b4b620d4b6918, type: 3}
+  m_Name: 06 The Lovers
+  m_EditorClassIdentifier: 
+  CardName: VI. The Lovers
+  CardImage: {fileID: 21300000, guid: 0f484f474fb02f147ba21a68151c8719, type: 3}
+  Word1: Love
+  Word2: Raw Honesty
+  Word3: Choose
+  Meaning1: the biggest word in human history. stop looking for your other half.
+    the card is a lie. love yourself. the stars will hate you if you don't. fill
+    the hole in your ribcage with stars instead of flesh. trust me, it will be fine.
+    i'm very trustworthy.
+  Meaning2: let other people see your most vulnerable parts. tear your ribcage open.
+    ignore the bone splinters on the ground. hand them your heart, pulsing and throbbing
+    in your palms. congrats, you have showed someone else your most vulnerable parts.
+    good luck with the bleeding.
+  Meaning3: here is a white stone. maybe marble. it's polished and beautiful, but
+    shallow. here is a dark stone. maybe onyx. it's also polished and beautiful,
+    but also shallow. pick one. no matter what choice you made, it is wrong. take
+    both.

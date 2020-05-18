@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f87e8b051ef8d148a1b4b620d4b6918, type: 3}
+  m_Name: 03 The Empress
+  m_EditorClassIdentifier: 
+  CardName: III. The Empress
+  CardImage: {fileID: 21300000, guid: 2f7f53ad86cef4541b149d44a2468012, type: 3}
+  Word1: Beauty
+  Word2: Birth
+  Word3: Nurture
+  Meaning1: 'beauty is in the eye of the beholder. ask yourself: are you the beholder?
+    does that mean beauty is in your eye? do you still see it when your close your
+    eyes? what do you see when you close your eyes?'
+  Meaning2: 'this is not your destruction, this is your birth, isn''t it. your hard
+    work will pay off. it might be good - it might also be pay you back. keep your
+    friends close, and the things you gave birth to closer. '
+  Meaning3: 'now is the time to plant a seed! remember: ensure it has enough light,
+    is not close enough to the sun to burn up, and water it regularly. it might grow
+    to be a wonderful tree. it might also kill you. take the chance!'

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f87e8b051ef8d148a1b4b620d4b6918, type: 3}
+  m_Name: 14 Temperance
+  m_EditorClassIdentifier: 
+  CardName: XIV. Temperance
+  CardImage: {fileID: 21300000, guid: f1a5e353f00c4ac46a7211b9e0c6e4a9, type: 3}
+  Word1: Moderation
+  Word2: Peacekeeper
+  Word3: Patience
+  Meaning1: agree to disagree. that's wrong. disagree to agree. don't disagree. don't
+    agree. put your opinions in the dryer so many times until they are bleached and
+    faded. it will give you a lot of time to reflect on them, watching them spin
+    round and round in soapy water.
+  Meaning2: 'no, you don''t get a gun. maybe a badge. required qualities: being calm,
+    caring about balance and order, all the boring stuff. still no gun. be the eye
+    of the storm when everything bursts into flames. sit in the flames and reconsider. '
+  Meaning3: 'all good things come to people who wait. also all bad things. things
+    will come for you while you wait. they will whisper the secrets of the universe
+    into your ears while you''re sleeping. you won''t remember anything except a
+    feeling of dread in your throat. '

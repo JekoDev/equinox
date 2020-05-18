@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f87e8b051ef8d148a1b4b620d4b6918, type: 3}
+  m_Name: 10 Wheel of Fortune
+  m_EditorClassIdentifier: 
+  CardName: X. Wheel of Fortune
+  CardImage: {fileID: 21300000, guid: 6e8ee2c7ce435094d976f4ec57f437b7, type: 3}
+  Word1: Destiny
+  Word2: Turning Point
+  Word3: Good Luck
+  Meaning1: 'do you believe in destiny? i won''t tell you what to do. you''re more
+    than a set of smudged rules written by the universe, but some things are predestined.
+    embrace them. it might feel like dying. '
+  Meaning2: the bottom of an hourglass. the hourglass is filled with ocean water,
+    or maybe it's tears. it measures time, but not our time. turn it around. let
+    yourself float in the ocean waves or you will drown.
+  Meaning3: good luck! good luck, you might get crushed in the giant clockwork wheels
+    of the universe. cherish what you have, these blissful memories. be nice to the
+    clockwork. offer it some tea. it might offer you some tea back. it will taste
+    like oil.

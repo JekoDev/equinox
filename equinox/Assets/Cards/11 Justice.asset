@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f87e8b051ef8d148a1b4b620d4b6918, type: 3}
+  m_Name: 11 Justice
+  m_EditorClassIdentifier: 
+  CardName: XI. Justice
+  CardImage: {fileID: 21300000, guid: bddccb0446a59814c858ec7e5c5bc0fe, type: 3}
+  Word1: Judge
+  Word2: Jury
+  Word3: Executioner
+  Meaning1: the judge is a scale. your reflection shows in the gold, but it has no
+    eyes. climb onto the scale. there's an ocean of black waves under you. tear your
+    heart out of your chest and place it on the other scale. i hope it will be light.
+  Meaning2: the jury is an ocean of people. dressed in black robes. no faces. when
+    they speak, they speak as one voice. they will ask you what you have done. you
+    will tell them your life story even though you don't want to. don't lie. they
+    will know.
+  Meaning3: the executioner is a sword, pale and transparent. wielded by no one.
+    judgement will come upon you. accept it. stand with your decisions. you deserve
+    the outcome, no matter what the outcome will be.

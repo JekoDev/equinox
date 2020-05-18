@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f87e8b051ef8d148a1b4b620d4b6918, type: 3}
+  m_Name: 21 The World
+  m_EditorClassIdentifier: 
+  CardName: XXI. The World
+  CardImage: {fileID: 21300000, guid: 1920a26b015368d4ab77babc41f4e523, type: 3}
+  Word1: Completion
+  Word2: Travel
+  Word3: Entirety
+  Meaning1: something is ending. something is always ending. pick an ending. any
+    ending. is it about you? congratulations, it now is. or maybe the story wasn't
+    about you all along. are you sure you were the protagonist of your own life?
+  Meaning2: you have come a long way. you will still go a long way from here on.
+    this feels like an end, but it's merely a completion of something. closure. close
+    the lid of the chest and never open it again. find the most secure lock you can
+    find. use it.
+  Meaning3: entirety and entity share a lot of letters. curious, isn't it? you are
+    unbecoming and becoming something at the same time. you have almost completed
+    the process. good job. we ensure you that you won't regret it. you are very close.

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f87e8b051ef8d148a1b4b620d4b6918, type: 3}
+  m_Name: 05 The Hierophant
+  m_EditorClassIdentifier: 
+  CardName: V. The Hierophant
+  CardImage: {fileID: 21300000, guid: c878ede6cfd19ca40aa6435afddc3e07, type: 3}
+  Word1: Tradition
+  Word2: Routine
+  Word3: Religion
+  Meaning1: 'respect your traditions. don''t think about them - it will come up as
+    a blurry mess of static in your mind, while you try to desperately remember the
+    traditions that have governed your entire life in the community. think harder.
+    it might all fall apart. '
+  Meaning2: get out of bed. brush your teeth. have breakfast. wonder why you brushed
+    your teeth. go to bed again. work in bed. get out of bed. get out of bed. get
+    out of bed. repeat as many times as you need to. they are waiting.
+  Meaning3: do you pray? do you believe in god? how many teeth does your god have?
+    and how many eyes? does their voice makes you quiver in fear? good.

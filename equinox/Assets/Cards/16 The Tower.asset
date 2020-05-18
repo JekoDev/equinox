@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f87e8b051ef8d148a1b4b620d4b6918, type: 3}
+  m_Name: 16 The Tower
+  m_EditorClassIdentifier: 
+  CardName: XVI. The Tower
+  CardImage: {fileID: 21300000, guid: 0c6bb71a7b74655478b635f47d832a76, type: 3}
+  Word1: Chaos
+  Word2: Destruction
+  Word3: Change
+  Meaning1: chaos finds you in a dream. or maybe you're awake. it has many eyes.
+    it's the most beautiful thing you've ever seen. you reach out to it and let it
+    unravel you. when you wake up, your fingertips are burned and stained with color.
+    be careful.
+  Meaning2: a shattering mirror. a broken bone. a crack in your favorite mug. everything
+    is falling apart. your world is build on lies. the lies unravel. what is underneath
+    won't be pretty. you will not like it. neither will they.
+  Meaning3: you will feel comfortable. then everything will change. this is a threat.
+    it will come when you least expect it. make three steps back, turn around and
+    run while everything falls apart in the background. rebuild something from the
+    ashes.

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f87e8b051ef8d148a1b4b620d4b6918, type: 3}
+  m_Name: 12 The hanged man
+  m_EditorClassIdentifier: 
+  CardName: XII. The Hanged Man
+  CardImage: {fileID: 21300000, guid: affb4b7b62e37b54a9a0a6eeb578d0f8, type: 3}
+  Word1: Pause
+  Word2: Surrender
+  Word3: New Perspectives
+  Meaning1: 'lie on the tiles of your bathroom floor. stare up at the white ceiling.
+    let go. imagine your life is a feral dog. or maybe a cat. imagine a cat with
+    six eyes that glows. it curls up on your stomach. make friends with the fear
+    and uncanniness. lie very still. '
+  Meaning2: 'you''re losing the war. you know, the war - all capital letters. the
+    one no one talks about, but everyone knows it''s happening. you''re losing it.
+    drop your weapons. stop fighting. turn around and leave the battlefield. '
+  Meaning3: the world looks better upside-down. you're upside down on a tree. why
+    are you upside down on a tree? get down there. if left and right aren't working
+    for you, try up and down. try inventing a new perspective. it's just math. reinvent
+    math.
